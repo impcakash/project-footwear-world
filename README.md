@@ -1,12 +1,31 @@
-# React + Vite
+# Project Footwear World
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```
+This is a clone of the popular Nike website. Nike.com is an Online Shopping Site for Footwear and Apparel. I have made it fully functional using React, JavaScript, HTML, and Tailwind CSS, providing a responsive and smooth user experience.
+```
 
-Currently, two official plugins are available:
+### Deployed Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://project-footwear-world.netlify.app/
 
-## Expanding the ESLint configuration
+### Tech-Stack Used:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- JavaScript
+- HTML
+- CSS
+
+### Screenshots
+
+![App Screenshot](public/pics/img_01.png)
+
+![App Screenshot](public/pics/img_02.png)
+
+![App Screenshot](public/pics/img_03.png)
+
+![App Screenshot](public/pics/img_04.png)
+
+![App Screenshot](public/pics/img_05.png)
+
+![App Screenshot](public/pics/img_06.png)
