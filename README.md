@@ -1,10 +1,8 @@
 # Project Footwear World
 
-```
 This is a clone of the popular Nike website. Nike.com is an Online Shopping Site for Footwear and Apparel. I have made it fully functional using React, JavaScript, HTML, and Tailwind CSS, providing a responsive and smooth user experience.
-```
 
-### Deployed Link
+### Deployed Link:
 
 https://project-footwear-world.netlify.app/
 
@@ -16,7 +14,7 @@ https://project-footwear-world.netlify.app/
 - HTML
 - CSS
 
-### Screenshots
+### Screenshots:
 
 ![App Screenshot](public/pics/img_01.png)
 
